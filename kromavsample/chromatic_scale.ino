@@ -8,11 +8,11 @@ int findcc(int pitch) {
   switch (divnote)
   {
     case 3: cc1 = 0; break; // octave C1
-    
+
     case 4: cc1 = 32; break;  //octave C2
-    
+
     case 5: cc1 = 64; break;  //octave C3
-    
+
     case 6: cc1 = 96; break;  //octave C4
 
  }
@@ -35,3 +35,5 @@ switch (remnote)
  cctotal = cc1 + cc2;
  return cctotal;
  }
+
+// testing git.
