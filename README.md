@@ -15,3 +15,4 @@ begin playing and you'll hear your selected sample being played chromatically (2
 NOTE:
 the pitches of the samples at both ends of the octave spectrum are not very accurate... there's a chance it will sound slightly off key (as far as i know this is a hardware limitation and not a code limitation).
 
+video here: (https://www.instagram.com/p/_HzY4mp31h/)
